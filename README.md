@@ -14,10 +14,6 @@
 
 
 
-    
-![Bithiah's github stats](https://github-readme-stats.vercel.app/api?username=vintagemind)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vintagemind)](https://github.com/vintagemind/github-readme-stats)
-
-
 
 
     
