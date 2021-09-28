@@ -26,7 +26,7 @@
 - 😄 Pronouns: She/ Her 👩🏻‍💻
 - Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
 
-
+Yup my face when I am annoyed....
 
 ![Alt Text](https://c.tenor.com/2cvytFvhX2EAAAAM/jean-arthur-mr-smith.gif)
 
