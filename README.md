@@ -22,6 +22,7 @@
 </p>
 - 😄 Pronouns: She/ Her 👩🏻‍💻
 - Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
+
 ![Alt Text](https://c.tenor.com/HWyyGa7DfjgAAAAC/carole-lombard-annoying.gif)
 
 
