@@ -1,4 +1,7 @@
-### Hi there 👋!!
+### Hi there 👋!! I didn't see you!
+
+
+![Alt Text](https://data.whicdn.com/images/317065528/original.gif)
 
 - 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
 - 😅 Getting active on Github so don't expect too much from me at the moment. 
@@ -23,11 +26,8 @@
 - 😄 Pronouns: She/ Her 👩🏻‍💻
 - Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
 
-![Alt Text](https://c.tenor.com/HWyyGa7DfjgAAAAC/carole-lombard-annoying.gif)
 
 
+![Alt Text](https://c.tenor.com/2cvytFvhX2EAAAAM/jean-arthur-mr-smith.gif)
 
-
-
-    
  
