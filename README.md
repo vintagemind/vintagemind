@@ -23,8 +23,8 @@
 
 </a>
 </p>
-- 😄 Pronouns: She/ Her 👩🏻‍💻
-- Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
+😄 Pronouns: She/ Her 👩🏻‍💻
+Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
 
 Yup my face when I am annoyed....
 
