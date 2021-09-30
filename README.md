@@ -8,6 +8,7 @@
 - 😅 Getting active on Github so don't expect too much from me at the moment. 
 - 🌱 I’m currently learning C++, HTML, CSS to the core! 
 - 🧐 Expert(-ish) in Python 3
+- Into game programming, machine learning, and AI.
 - 💬 Ask me about , anything related to coding 💻 (especially Python  🐍), technical support for Firefox 🦊, fencing 🤺, and vintage stuff 🎺.
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
