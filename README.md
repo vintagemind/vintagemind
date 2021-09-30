@@ -1,7 +1,8 @@
 ### Hi there 👋!! I didn't see you!
 
-
 ![Alt Text](https://data.whicdn.com/images/317065528/original.gif)
+
+<p align="left"> <a href="https://twitter.com/vintagemind07" target="blank"><img src="https://img.shields.io/twitter/follow/vintagemind07?logo=twitter&style=for-the-badge" alt="bithiah_koshy" /></a> </p>
 
 - 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
 - 😅 Getting active on Github so don't expect too much from me at the moment. 
