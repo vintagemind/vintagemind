@@ -21,7 +21,9 @@
 <a href="https://www.quora.com/profile/Vintagemind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="bithiah-koshy" height="30" width="40" /></a>
 <a href="https://medium.com/@vintagemind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="bithiah-koshy" height="30" width="40" /></a>    
 <a href="https://www.goodreads.com/user/show/84356819-vintagemind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="bithiah-koshy" height="30" width="40" /></a>       
-<a href="https://open.spotify.com/user/0ghh2eguku4lb40hgwq8m4i8y" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="bithiah-koshy" height="30" width="40" /></a>      
+<a href="https://open.spotify.com/user/0ghh2eguku4lb40hgwq8m4i8y" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="bithiah-koshy" height="30" width="40" /></a>    
+ <a href="https://twitch.tv/vintagemind07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="vintagemind07" height="30" width="40" /></a>  
+
 
 </a>
 </p>
