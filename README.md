@@ -2,7 +2,9 @@
 
 
 
-
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=vintagemind" alt="vintagemind" /> 
+</p>
 
 - 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
 - 😅 Getting active on Github so don't expect too much from me at the moment.  
