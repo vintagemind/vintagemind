@@ -31,9 +31,12 @@
 
 </a>
 </p>
-😄 Pronouns: She/ Her 👩🏻‍💻
 
 Any donations/tips for anything, please send to Bitcoin Address: bc1qhmuvspdlcx56k2mnx9jw9lptp9zl54zm3kxsn5
+
+
+😄 Pronouns: She/ Her 👩🏻‍💻
+
 
 Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
 
