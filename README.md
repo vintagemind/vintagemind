@@ -29,6 +29,8 @@
  <a href="https://twitch.tv/vintagemind07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="vintagemind07" height="30" width="40" /></a>  
 
 
+![Bithiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=vintagemind&show_icons=true&theme=radical)
+
 </a>
 </p>
 
