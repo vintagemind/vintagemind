@@ -5,6 +5,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=vintagemind" alt="vintagemind" /> 
 </p>
+
 - 🌏 I live in Melbourne, Australia
 
 - 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
