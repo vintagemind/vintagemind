@@ -6,10 +6,15 @@
  <img src="https://komarev.com/ghpvc/?username=vintagemind" alt="vintagemind" /> 
 </p>
 - 🌏 I live in Melbourne, Australia
+
 - 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
+
 - 😅 Getting active on Github so don't expect too much from me at the moment.  
+
 - 🧐 Expert(-ish) in Python 3
+
 - Into game programming, machine learning, and AI.
+
 - 💬 Ask me about anything related to coding 💻 (especially Python  🐍), technical support for Firefox 🦊, fencing 🤺, and vintage stuff 🎺.
 
 <p align="left"> <a href="https://twitter.com/vintagemind07" target="blank"><img src="https://img.shields.io/twitter/follow/vintagemind07?logo=twitter&style=for-the-badge" alt="bithiah_koshy" /></a> </p>
