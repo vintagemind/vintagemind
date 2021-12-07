@@ -50,8 +50,7 @@ Any donations/tips for anything, please send to Bitcoin Address: bc1qhmuvspdlcx5
 
 Fun Fact I find a lot of things very annoying (like girl talk and ugly code) :
 
-Yup my face when I am annoyed....
 
-![Alt Text](https://c.tenor.com/2cvytFvhX2EAAAAM/jean-arthur-mr-smith.gif)
+![Alt Text](https://c.tenor.com/LIHpgXIFh-kAAAAd/carole-lombard-twentieth-century.gif)
 
  
