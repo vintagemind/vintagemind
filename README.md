@@ -46,8 +46,6 @@
 </a>
 </p>
 
-Any donations/tips for anything, please send to Bitcoin Address: bc1qhmuvspdlcx56k2mnx9jw9lptp9zl54zm3kxsn5
-
 
 😄 Pronouns: She/ Her 👩🏻‍💻
 
