@@ -16,8 +16,6 @@
 
 - ✨ Learning cryptography
 
-- 🤠 Want to go to texas y'all
-
 - Into game programming, machine learning, and AI.
 
 - 💬 Ask me about anything related to coding 💻 (especially Python  🐍), technical support for Firefox 🦊, fencing 🤺, and vintage stuff 🎺.
