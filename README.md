@@ -27,7 +27,7 @@
 <a href="https://twitter.com/vintagemind07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vintagemind07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bithiah-koshy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bithiahkoshy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16327123/vintagemind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bithiah-koshy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/VintageMind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vintagemind" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Vintage_Mind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vintagemind" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vintagemind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vintagemind" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bithiah koshy" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Vintagemind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="bithiah-koshy" height="30" width="40" /></a>
