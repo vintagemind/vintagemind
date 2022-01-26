@@ -28,8 +28,11 @@
 <a href="https://www.linkedin.com/in/bithiah-koshy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bithiahkoshy" height="30" width="40" /></a>
 
  Codeforces : https://codeforces.com/profile/Vintage_Mind
+ 
  Kattis : https://open.kattis.com/users/vintagemind
+ 
  Codechef : https://leetcode.com/Vintage_Mind/ 
+ 
  AtCoder : https://atcoder.jp/users/Vintagemind
  
 
