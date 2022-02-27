@@ -41,7 +41,9 @@
  
  Also check out my Youtube channel ;)
  
-<a href=" http://youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bithiahkoshy" height="30" width="40" /></a>
+<p align="left"> <a href="http://youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA" target="blank"><img src="https://img.shields.io/youtube/follow/UC-u8sNr9bZpf0SLW7r-FqeA?logo=youtube&style=for-the-badge" alt="bithiah_koshy" /></a> </p>
+ 
+<a href="http://youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bithiahkoshy" height="30" width="40" /></a>
 
 ![Bithiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=vintagemind&show_icons=true&theme=radical)
 
