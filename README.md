@@ -8,6 +8,8 @@
 
 - 🌏 I live in Melbourne, Australia
 
+- 😄 Pronouns: She/ Her 👩🏻‍💻
+
 - 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
 
 - 😅 Getting active on Github so don't expect too much from me at the moment.  
@@ -26,7 +28,6 @@
 <p align="left">
 <a href="https://twitter.com/vintagemind07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vintagemind07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bithiah-koshy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bithiahkoshy" height="30" width="40" /></a>
- <a href=" http://youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bithiahkoshy" height="30" width="40" /></a>
 
  Codeforces : https://codeforces.com/profile/VintageMind
  
@@ -37,6 +38,10 @@
  AtCoder : https://atcoder.jp/users/Vintagemind
  
  Hackerrank: https://www.hackerrank.com/vintagemind?hr_r=1
+ 
+ Also check out my Youtube channel ;)
+ 
+<a href=" http://youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bithiahkoshy" height="30" width="40" /></a>
 
 ![Bithiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=vintagemind&show_icons=true&theme=radical)
 
@@ -46,7 +51,6 @@
 </p>
 
 
-😄 Pronouns: She/ Her 👩🏻‍💻
 
 
 
