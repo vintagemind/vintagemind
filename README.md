@@ -26,7 +26,7 @@
 
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vintagemind07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vintagemind07" height="30" width="40" /></a>
+<a href="https://twitter.com/vintagemind07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vintagemind07" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/bithiah-koshy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bithiahkoshy" height="30" width="40" /></a>
 
  Codeforces : https://codeforces.com/profile/VintageMind
