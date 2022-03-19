@@ -1,7 +1,7 @@
 ### Hi there 👋!! I didn't see you!
 
 
-- 🌏 I live in Melbourne, Australia
+- 🌏 I live in Australia
 
 - 😄 Pronouns: She/ Her 👩🏻‍💻
 
