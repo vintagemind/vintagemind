@@ -1,11 +1,6 @@
 ### Hi there 👋!! I didn't see you!
 
 
-
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=vintagemind" alt="vintagemind" /> 
-</p>
-
 - 🌏 I live in Melbourne, Australia
 
 - 😄 Pronouns: She/ Her 👩🏻‍💻
