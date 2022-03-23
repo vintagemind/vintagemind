@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: She/ Her 👩🏻‍💻
 
-- 🔭 I’m currently working on contributing to [Mozilla](https://github.com/mozilla/)
+- 🔭 I’m currently working on contributing to [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)
 
 - 😅 Getting active on Github so don't expect too much from me at the moment.  
 
