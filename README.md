@@ -28,12 +28,6 @@
  
  Kattis : https://open.kattis.com/users/vintagemind
  
- Codechef : https://leetcode.com/Vintage_Mind/ 
- 
- AtCoder : https://atcoder.jp/users/Vintagemind
- 
- Hackerrank: https://www.hackerrank.com/vintagemind?hr_r=1
- 
  Also check out my Youtube channel ;)
 
  
