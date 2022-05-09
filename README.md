@@ -9,9 +9,9 @@
 
 - 😅 Getting active on Github so don't expect too much from me at the moment.  
 
-- 🧐 Expert(-ish) in Python 3
+- 🧐 Codes in Python 3
 
-- ✨ Learning cryptography
+- ✨ Learning stuff you learn at high school
 
 - Into software development, machine learning, and AI.
 
