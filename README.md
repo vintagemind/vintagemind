@@ -13,8 +13,6 @@
 
 - ✨ Learning stuff you learn at high school
 
-- Into software development, machine learning, and AI.
-
 - 💬 Ask me about anything related to coding 💻 (especially Python  🐍), technical support for Firefox 🦊, fencing 🤺, and vintage stuff 🎺.
 
 
